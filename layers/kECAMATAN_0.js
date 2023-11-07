@@ -1,0 +1,1 @@
+var json_kECAMATAN_0 = {"type":"FeatureCollection","name":"kECAMATAN_0","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
